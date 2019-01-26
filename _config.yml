@@ -12,11 +12,11 @@
 
 # Site settings
 title: Recovery Enhancement Solutions
-description: Combining domain knowledge of addiction treatment with technical expertise to create products and services that will benefit individuals in self directed recovery. 
+description: 
 owner:
   name: Recovery Enhancement Solutions # or company name
   url: recoveryenhancementsolutions.github.io
-first_published: 2010
+first_published: 2019
 url: "http://example.com" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
@@ -28,7 +28,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome
-  text: _Your detailed greeting text_
+  text: Our mission is to use technology to create products and services that will benefit individuals in self directed recovery.
 # - displayed at the bottom
 closing-head: _Your closing_
 closing-para: _Your detailed closing_
