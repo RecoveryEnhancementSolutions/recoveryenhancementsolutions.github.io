@@ -30,8 +30,8 @@ greeting:
   title: Welcome
   text: Our mission is to use technology to create products and services that will benefit individuals in self directed recovery.
 # - displayed at the bottom
-closing-head: _Your closing_
-closing-para: _Your detailed closing_
+closing-head: Thanks for visiting!
+closing-para: Please contact us for more information or to get involved!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
